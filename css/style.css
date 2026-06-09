@@ -47,7 +47,7 @@ div{
 #KeyI{grid-area: 3/10/5/10;}
 #KeyO{grid-area: 3/11/5/11;}
 #KeyP{grid-area: 3/12/5/12;}
-#KeyÅ{grid-area: 3/13/5/13;}
+#BracketLeft{grid-area: 3/13/5/13;}
 #BracketRight{grid-area: 3/14/5/14;}
 #Enter{grid-area: 3/15/7/15;}
 #PageUp{grid-area: 3/16/5/16;}
@@ -76,21 +76,21 @@ div{
 #KeyB{grid-area: 7/8/9/8;}
 #KeyN{grid-area: 7/9/9/9;}
 #KeyM{grid-area: 7/10/9/10;}
-#comma{grid-area: 7/11/9/11;}
+#Comma{grid-area: 7/11/9/11;}
 #Period{grid-area: 7/12/9/12;}
 #Slash{grid-area: 7/13/9/13;}
 #ShiftRight{grid-area: 7/14/9/16;}
 #End{grid-area: 7/16/9/16;}
 
-#CortrolLeft{grid-area: 9/1/11/1;}
+#ControlLeft{grid-area: 9/1/11/1;}
 #fn{grid-area: 9/2/11/2;}/*Doesn't have a keycode*/
 #MetaLeft{grid-area: 9/3/11/3;}
 #AltLeft{grid-area: 9/4/11/4;}
 #Space{grid-area: 9/5/11/10;}
 #AltRight{grid-area: 9/10/11/10;}
-#ContexMenu{grid-area: 9/11/11/11;}
+#ContextMenu{grid-area: 9/11/11/11;}
 #ControlRight{grid-area: 9/12/11/12;}
-#LeftArrow{grid-area: 9/13/11/13;}
-#UpArrow{grid-area: 9/14/10/16;}
-#DownArrow{grid-area: 10/14/11/16;}
-#RightArrow{grid-area: 9/16/11/16;}
+#ArrowLeft{grid-area: 9/13/11/13;}
+#ArrowUp{grid-area: 9/14/10/16;}
+#ArrowDown{grid-area: 10/14/11/16;}
+#ArrowRight{grid-area: 9/16/11/16;}
